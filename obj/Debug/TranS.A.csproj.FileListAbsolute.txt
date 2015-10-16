@@ -1,0 +1,11 @@
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\bin\Debug\TranS.A.exe.config
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\bin\Debug\TranS.A.exe
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\bin\Debug\TranS.A.pdb
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\obj\Debug\TranS.A.csprojResolveAssemblyReference.cache
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\obj\Debug\TranS.A.Properties.Resources.resources
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\obj\Debug\TranS.A.csproj.GenerateResource.Cache
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\obj\Debug\TranS.A.exe
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\obj\Debug\TranS.A.pdb
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\obj\Debug\TranS.A.Frm_Menu.resources
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\obj\Debug\TranS.A.Registro_Cliente.resources
+C:\Users\jonathan\Desktop\TranS.A\TranS.A\obj\Debug\TranS.A.Actualizar_Clientecs.resources
